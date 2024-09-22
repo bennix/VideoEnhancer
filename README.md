@@ -54,9 +54,9 @@ The script uses the ESPCN (Efficient Sub-Pixel Convolutional Neural Network) mod
 
 ## License / 许可证
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
-本项目采用MIT许可证 - 详情请参阅[LICENSE](LICENSE)文件。
+本项目采用MIT许可证 
 
 ## Acknowledgments / 致谢
 
