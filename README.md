@@ -37,6 +37,7 @@ This project provides a Python script for enhancing video quality using super-re
 ## Usage / 使用方法
 
 1. Place your input video in the project directory / 将输入视频放在项目目录中
+   Make sure this filename is iput.mp4/ 确保文件名是input.mp4
 
 2. Run the script / 运行脚本
    ```
